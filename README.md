@@ -39,5 +39,18 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        02
+      </td>
+      <td align="center">
+        <a href="02-card-produto">Card de produto</a>
+      </td>
+      <td align="center">
+        <a href="02-card-produto">
+          <img src="02-card-produto/.github/preview.png" width="400px" />
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
