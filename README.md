@@ -52,5 +52,18 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        03
+      </td>
+      <td align="center">
+        <a href="03-botoes-cursores">Botões e cursores</a>
+      </td>
+      <td align="center">
+        <a href="03-botoes-cursores">
+          <img src="03-botoes-cursores/.github/preview.png" width="400px" />
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
