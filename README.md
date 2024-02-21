@@ -78,5 +78,18 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        05
+      </td>
+      <td align="center">
+        <a href="05-calculadora">Calculadora</a>
+      </td>
+      <td align="center">
+        <a href="05-calculadora">
+          <img src="05-calculadora/.github/preview.png" width="400px" />
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
