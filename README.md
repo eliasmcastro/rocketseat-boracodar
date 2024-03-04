@@ -91,5 +91,18 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        06
+      </td>
+      <td align="center">
+        <a href="06-cartao-embarque">Cartão de embarque</a>
+      </td>
+      <td align="center">
+        <a href="06-cartao-embarque">
+          <img src="06-cartao-embarque/.github/preview.png" width="400px" />
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
