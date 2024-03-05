@@ -104,5 +104,18 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        07
+      </td>
+      <td align="center">
+        <a href="07-site-bloco-carnaval">Site de bloco de carnaval</a>
+      </td>
+      <td align="center">
+        <a href="07-site-bloco-carnaval">
+          <img src="07-site-bloco-carnaval/.github/preview.png" width="400px" />
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
