@@ -117,5 +117,18 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        08
+      </td>
+      <td align="center">
+        <a href="08-dashboard">Dashboard</a>
+      </td>
+      <td align="center">
+        <a href="08-dashboard">
+          <img src="08-dashboard/.github/preview.png" width="400px" />
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
