@@ -130,5 +130,18 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        09
+      </td>
+      <td align="center">
+        <a href="09-conversor-moedas">Conversor de moedas</a>
+      </td>
+      <td align="center">
+        <a href="09-conversor-moedas">
+          <img src="09-conversor-moedas/.github/preview.png" width="400px" />
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
