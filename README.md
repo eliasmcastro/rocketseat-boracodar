@@ -143,5 +143,18 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        10
+      </td>
+      <td align="center">
+        <a href="10-pagina-clima">Página de clima</a>
+      </td>
+      <td align="center">
+        <a href="10-pagina-clima">
+          <img src="10-pagina-clima/.github/preview.png" width="400px" />
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
