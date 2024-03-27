@@ -156,7 +156,7 @@
         </a>
       </td>
     </tr>
-     <tr>
+    <tr>
       <td align="center">
         11
       </td>
@@ -166,6 +166,19 @@
       <td align="center">
         <a href="11-tela-login">
           <img src="11-tela-login/.github/preview.png" width="400px" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        12
+      </td>
+      <td align="center">
+        <a href="12-kanban">Kanban</a>
+      </td>
+      <td align="center">
+        <a href="12-kanban">
+          <img src="12-kanban/.github/preview.png" width="400px" />
         </a>
       </td>
     </tr>
