@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Bora Codar 13 - Formulário de Cartão de Crédito</title>
+  <link href="https://fonts.googleapis.com" rel="preconnect" />
+  <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700&display=swap" rel="stylesheet" />
+  <link href="style.css" rel="stylesheet" />
+</head>
+
+<body>
+  <form>
+    <section id="credit-card">
+      <div class="front"></div>
+      <div class="back"></div>
+    </section>
+    <section class="inputs flex">
+      <div class="input-wrapper">
+        <label for="cc-number">Número do cartão</label>
+        <input type="text" id="cc-number" placeholder="**** **** **** ****" />
+      </div>
+      <div class="input-wrapper">
+        <label for="cc-holder">Nome do titular</label>
+        <input type="text" id="cc-holder" placeholder="Nome como está no cartão" required />
+        <div class="warning">
+          <img src="./assets/warning.svg" alt="ícone de alerta" />
+          Nome do titular é obrigatório
+        </div>
+      </div>
+
+      <div class="col-2 flex">
+        <div class="input-wrapper">
+          <label for="cc-validity">Validade</label>
+          <input type="text" id="cc-validity" placeholder="mm/aa" />
+        </div>
+
+        <div class="input-wrapper">
+          <label class="flex help" for="cc-cvv">CVV
+            <img src="./assets/question.svg" alt="ícone de ajuda" title="Esse número está, geralmente, nas costas do seu cartão" />
+          </label>
+          <input type="text" id="cc-cvv" placeholder="***" />
+        </div>
+      </div>
+    </section>
+    <section class="info-security flex">
+      <img src="./assets/shield-check.svg" alt="ícone de segurança" />
+      Seus dados estão seguros
+    </section>
+    <button>Adicionar Cartão</button>
+  </form>
+
+  <script src="https://unpkg.com/imask"></script>
+  <script src="./main.js"></script>
+</body>
+
+</html>
