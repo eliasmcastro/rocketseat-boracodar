@@ -184,7 +184,7 @@
     </tr>
     <tr>
       <td align="center">
-        12
+        13
       </td>
       <td align="center">
         <a href="13-form-cartao-credito">Formulário de cartão de crédito</a>
@@ -192,6 +192,19 @@
       <td align="center">
         <a href="13-form-cartao-credito">
           <img src="13-form-cartao-credito/.github/preview.png" width="400px" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        14
+      </td>
+      <td align="center">
+        <a href="14-componente-upload"> Componente de upload</a>
+      </td>
+      <td align="center">
+        <a href="14-componente-upload">
+          <img src="14-componente-upload/.github/preview.png" width="400px" />
         </a>
       </td>
     </tr>
