@@ -200,11 +200,24 @@
         14
       </td>
       <td align="center">
-        <a href="14-componente-upload"> Componente de upload</a>
+        <a href="14-componente-upload">Componente de upload</a>
       </td>
       <td align="center">
         <a href="14-componente-upload">
           <img src="14-componente-upload/.github/preview.png" width="400px" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        15
+      </td>
+      <td align="center">
+        <a href="15-pricing-table">Pricing Table</a>
+      </td>
+      <td align="center">
+        <a href="15-pricing-table">
+          <img src="15-pricing-table/.github/preview.png" width="400px" />
         </a>
       </td>
     </tr>
