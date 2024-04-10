@@ -247,5 +247,18 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        18
+      </td>
+      <td align="center">
+        <a href="18-card-personagem">Card de Personagem</a>
+      </td>
+      <td align="center">
+        <a href="18-card-personagem">
+          <img src="18-card-personagem/.github/preview.png" width="400px" />
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
