@@ -273,5 +273,18 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        20
+      </td>
+      <td align="center">
+        <a href="20-galeria-hover">Galeria com Hover</a>
+      </td>
+      <td align="center">
+        <a href="20-galeria-hover">
+          <img src="20-galeria-hover/.github/preview.png" width="400px" />
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
