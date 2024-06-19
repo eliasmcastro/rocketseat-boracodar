@@ -286,5 +286,18 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        21
+      </td>
+      <td align="center">
+        <a href="21-carrinho-compras">Carinho de Compras</a>
+      </td>
+      <td align="center">
+        <a href="21-carrinho-compras">
+          <img src="21-carrinho-compras/.github/preview.png" width="400px" />
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
