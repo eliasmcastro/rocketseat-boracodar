@@ -299,5 +299,18 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        22
+      </td>
+      <td align="center">
+        <a href="22-profile-settings">Profile Settings</a>
+      </td>
+      <td align="center">
+        <a href="22-profile-settings">
+          <img src="22-profile-settings/.github/preview.png" width="400px" />
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
