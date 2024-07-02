@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Bora Codar 23 - Formulário Multi Step</title>
+  <link href="https://fonts.googleapis.com" rel="preconnect" />
+  <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;700&family=Titillium+Web:wght@700&display=swap" rel="stylesheet" />
+  <link href="style.css" rel="stylesheet" />
+</head>
+
+<body>
+  <main id="app">
+    <form>
+      <div class="step-progress">
+        <strong class="active" data-step>Contato</strong>
+        <img src="./assets/caret-right.svg" alt="Ícone de acento circunflexo direito" />
+        <strong data-step>Empresa</strong>
+        <img src="./assets/caret-right.svg" alt="Ícone de acento circunflexo direito" />
+        <strong data-step>Projeto</strong>
+      </div>
+
+      <div class="form-step active">
+        <div class="content">
+          <div class="input-wrapper">
+            <label for="name">Nome</label>
+            <input type="text" id="name" name="name" placeholder="Como prefere ser chamado" required />
+          </div>
+
+          <div class="input-wrapper">
+            <label for="phone">Telefone</label>
+            <input type="text" id="phone" name="phone" placeholder="Digite seu número de WhatsApp"
+              onkeypress="return /\d/.test(event.key)" />
+          </div>
+
+          <div class="input-wrapper">
+            <label for="email">E-mail</label>
+            <input type="email" id="email" name="email" placeholder="Digite seu e-mail" required />
+          </div>
+        </div>
+
+        <div class="button-wrapper justify-end">
+          <button type="button" class="btn primary" data-action="next">
+            Continuar
+          </button>
+        </div>
+      </div>
+
+      <div class="form-step hide">
+        <div class="content">
+          <div class="input-wrapper">
+            <label for="business-name">Nome da empresa</label>
+            <input type="text" id="business-name" name="business-name" placeholder="Qual é o nome da empresa" />
+          </div>
+
+          <div class="input-wrapper">
+            <label for="business-colab-number">Número de funcionários</label>
+            <input type="text" id="business-colab-number" name="business-colab-number"
+              placeholder="Digite o número de colaboradores" onkeypress="return /\d/.test(event.key)" />
+          </div>
+
+          <div class="input-wrapper">
+            <label for="business-about">Sobre seu negócio</label>
+            <textarea id="business-about" name="business-about"
+              placeholder="Fale um pouco sobre seus produtos ou serviços"></textarea>
+          </div>
+        </div>
+
+        <div class="button-wrapper">
+          <button type="button" class="btn secondary" data-action="prev">
+            Voltar
+          </button>
+          <button type="button" class="btn primary" data-action="next">
+            Continuar
+          </button>
+        </div>
+      </div>
+
+      <div class="form-step hide">
+        <div class="content">
+          <div class="input-wrapper">
+            <label for="project">Objetivos do projeto</label>
+            <textarea id="project" name="project" placeholder="Descreva quais os objetivos desse projeto"></textarea>
+          </div>
+        </div>
+
+        <div class="button-wrapper">
+          <button type="button" class="btn secondary" data-action="prev">
+            Voltar
+          </button>
+          <button class="btn primary" type="submit">Enviar proposta</button>
+        </div>
+      </div>
+    </form>
+  </main>
+
+  <script src="./main.js"></script>
+</body>
+
+</html>
