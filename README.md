@@ -325,5 +325,18 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        24
+      </td>
+      <td align="center">
+        <a href="24-ajustes-iluminacao">Ajustes de Iluminação</a>
+      </td>
+      <td align="center">
+        <a href="24-ajustes-iluminacao">
+          <img src="24-ajustes-iluminacao/.github/preview.png" width="400px" />
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
