@@ -351,5 +351,18 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        26
+      </td>
+      <td align="center">
+        <a href="26-receita-junina">Receita Junina</a>
+      </td>
+      <td align="center">
+        <a href="26-receita-junina">
+          <img src="26-receita-junina/.github/preview.png" width="400px" />
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
