@@ -338,5 +338,18 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        25
+      </td>
+      <td align="center">
+        <a href="25-player-vr">Player de VR</a>
+      </td>
+      <td align="center">
+        <a href="25-player-vr">
+          <img src="25-player-vr/.github/preview.png" width="400px" />
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
