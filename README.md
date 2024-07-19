@@ -390,5 +390,18 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        29
+      </td>
+      <td align="center">
+        <a href="29-antes-depois-ia">Antes e Depois com IA</a>
+      </td>
+      <td align="center">
+        <a href="29-antes-depois-ia">
+          <img src="29-antes-depois-ia/.github/preview.png" width="400px" />
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
