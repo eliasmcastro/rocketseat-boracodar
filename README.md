@@ -377,5 +377,18 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        28
+      </td>
+      <td align="center">
+        <a href="28-plataforma-ia">Plataforma de IA</a>
+      </td>
+      <td align="center">
+        <a href="28-plataforma-ia">
+          <img src="28-plataforma-ia/.github/preview.png" width="400px" />
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
