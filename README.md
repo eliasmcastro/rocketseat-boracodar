@@ -364,5 +364,18 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        27
+      </td>
+      <td align="center">
+        <a href="27-pagina-404">Página 404</a>
+      </td>
+      <td align="center">
+        <a href="27-pagina-404">
+          <img src="27-pagina-404/.github/preview.png" width="400px" />
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
