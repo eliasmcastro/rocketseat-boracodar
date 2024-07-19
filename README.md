@@ -403,5 +403,18 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        30
+      </td>
+      <td align="center">
+        <a href="30-recomendacao-filme-ia">Recomendação de Filme com IA</a>
+      </td>
+      <td align="center">
+        <a href="30-recomendacao-filme-ia">
+          <img src="30-recomendacao-filme-ia/.github/preview.png" width="400px" />
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
