@@ -1,7 +1,7 @@
 <h1 align="center"> Card de Produto </h1>
 
 <p align="center">
-#boraCodar são desafios semanais, promovido pela Rocketseat para ensino de tecnologias WEB
+Projeto de um card de produto para visualizar os detalhes de um produto à venda
 </p>
 
 <p align="center">
