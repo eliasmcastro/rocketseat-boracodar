@@ -6,7 +6,7 @@
   #boraCodar
 </h3>
 
-<p align="center">Projetos <a href="https://www.rocketseat.com.br/boracodar">#boraCodar</a> da Rocketseat</p>
+<p align="center"><a href="https://www.rocketseat.com.br/boracodar">#boraCodar</a> são desafios semanais, promovido pela Rocketseat para ensino de tecnologias WEB</p>
 
 <table align="center">
   <thead>

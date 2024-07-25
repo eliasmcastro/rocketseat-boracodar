@@ -1,7 +1,7 @@
 <h1 align="center"> Player de Música </h1>
 
 <p align="center">
-#boraCodar são desafios semanais, promovido pela Rocketseat para ensino de tecnologias WEB
+Projeto de um player de música que se adapta a diversos dispositivos
 </p>
 
 <p align="center">
