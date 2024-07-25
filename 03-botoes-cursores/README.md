@@ -1,7 +1,7 @@
 <h1 align="center"> Botões e cursores </h1>
 
 <p align="center">
-#boraCodar são desafios semanais, promovido pela Rocketseat para ensino de tecnologias WEB
+Projeto de uma tela de documentação de botões e cursores
 </p>
 
 <p align="center">
