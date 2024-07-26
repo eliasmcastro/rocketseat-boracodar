@@ -1,7 +1,7 @@
 <h1 align="center"> Conversor de moedas </h1>
 
 <p align="center">
-#boraCodar são desafios semanais, promovido pela Rocketseat para ensino de tecnologias WEB
+Projeto de um conversor de moedas, onde o usuário pode fazer conversões entre Real e Dólar
 </p>
 
 <p align="center">
