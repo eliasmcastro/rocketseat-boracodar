@@ -1,7 +1,7 @@
 <h1 align="center"> Site para encontrar seu bloco no carnaval </h1>
 
 <p align="center">
-#boraCodar são desafios semanais, promovido pela Rocketseat para ensino de tecnologias WEB
+Projeto de uma página onde o usuário pode buscar por blocos de Carnaval
 </p>
 
 <p align="center">
