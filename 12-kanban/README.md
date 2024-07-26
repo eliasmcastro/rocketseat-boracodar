@@ -1,7 +1,7 @@
 <h1 align="center"> Um Kanban </h1>
 
 <p align="center">
-#boraCodar são desafios semanais, promovido pela Rocketseat para ensino de tecnologias WEB
+Projeto de uma página web para gerenciamento de tarefas
 </p>
 
 <p align="center">
