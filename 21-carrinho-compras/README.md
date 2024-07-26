@@ -1,7 +1,7 @@
 <h1 align="center"> Carinho de Compras </h1>
 
 <p align="center">
-#boraCodar são desafios semanais, promovido pela Rocketseat para ensino de tecnologias WEB
+Projeto de um carrinho de compras
 </p>
 
 <p align="center">
