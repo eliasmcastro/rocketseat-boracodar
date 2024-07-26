@@ -1,7 +1,7 @@
 <h1 align="center"> Widget de Transporte </h1>
 
 <p align="center">
-#boraCodar são desafios semanais, promovido pela Rocketseat para ensino de tecnologias WEB
+Projeto de um widget com informações do seu motorista em um aplicativo de transporte
 </p>
 
 <p align="center">
