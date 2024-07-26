@@ -1,7 +1,7 @@
 <h1 align="center"> Multi Step Form </h1>
 
 <p align="center">
-#boraCodar são desafios semanais, promovido pela Rocketseat para ensino de tecnologias WEB
+Projeto de um formulário dividido em etapas
 </p>
 
 <p align="center">
