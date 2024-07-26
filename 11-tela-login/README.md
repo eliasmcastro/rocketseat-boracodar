@@ -1,7 +1,7 @@
 <h1 align="center"> Uma página de login </h1>
 
 <p align="center">
-#boraCodar são desafios semanais, promovido pela Rocketseat para ensino de tecnologias WEB
+Projeto de uma página de login para acessar uma aplicação web
 </p>
 
 <p align="center">
