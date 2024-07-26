@@ -1,7 +1,7 @@
 <h1 align="center"> Cartão de embarque </h1>
 
 <p align="center">
-#boraCodar são desafios semanais, promovido pela Rocketseat para ensino de tecnologias WEB
+Projeto de uma tela com um cartão de embarque
 </p>
 
 <p align="center">
