@@ -1,7 +1,7 @@
 <h1 align="center"> Ajustes de Iluminação </h1>
 
 <p align="center">
-#boraCodar são desafios semanais, promovido pela Rocketseat para ensino de tecnologias WEB
+Projeto de um aplicativo de ajuste de iluminação
 </p>
 
 <p align="center">
