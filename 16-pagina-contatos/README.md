@@ -1,7 +1,7 @@
 <h1 align="center"> Uma página de contatos </h1>
 
 <p align="center">
-#boraCodar são desafios semanais, promovido pela Rocketseat para ensino de tecnologias WEB
+Projeto de uma página com lista de contatos para aplicações mobile
 </p>
 
 <p align="center">
