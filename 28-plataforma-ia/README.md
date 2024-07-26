@@ -1,7 +1,7 @@
 <h1 align="center"> Plataforma de IA </h1>
 
 <p align="center">
-#boraCodar são desafios semanais, promovido pela Rocketseat para ensino de tecnologias WEB
+Projeto de uma tela de início de uma plataforma de Inteligência Artificial
 </p>
 
 <p align="center">
