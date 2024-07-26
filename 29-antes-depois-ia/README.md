@@ -1,7 +1,7 @@
 <h1 align="center"> Antes e Depois com IA </h1>
 
 <p align="center">
-#boraCodar são desafios semanais, promovido pela Rocketseat para ensino de tecnologias WEB
+Projeto de um componente com um slider arrastável que exibe o antes e o depois de uma imagem
 </p>
 
 <p align="center">
