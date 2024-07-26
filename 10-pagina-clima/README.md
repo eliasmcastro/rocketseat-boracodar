@@ -1,7 +1,7 @@
 <h1 align="center"> Uma página de clima </h1>
 
 <p align="center">
-#boraCodar são desafios semanais, promovido pela Rocketseat para ensino de tecnologias WEB
+Projeto de uma página para consultar o clima e a previsão do tempo
 </p>
 
 <p align="center">
