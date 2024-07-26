@@ -1,7 +1,7 @@
 <h1 align="center"> Página 404 </h1>
 
 <p align="center">
-#boraCodar são desafios semanais, promovido pela Rocketseat para ensino de tecnologias WEB
+Projeto de uma página web de erro 404 (página não encontrada)
 </p>
 
 <p align="center">
