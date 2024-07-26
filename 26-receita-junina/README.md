@@ -1,7 +1,7 @@
 <h1 align="center"> Receita Junina </h1>
 
 <p align="center">
-#boraCodar são desafios semanais, promovido pela Rocketseat para ensino de tecnologias WEB
+Projeto de um aplicativo de Receitas Juninas
 </p>
 
 <p align="center">
