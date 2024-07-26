@@ -1,7 +1,7 @@
 <h1 align="center"> Um formulário de cartão </h1>
 
 <p align="center">
-#boraCodar são desafios semanais, promovido pela Rocketseat para ensino de tecnologias WEB
+Projeto de um formulário para preenchimento das informações de cartão de crédito
 </p>
 
 <p align="center">
