@@ -429,5 +429,18 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        32
+      </td>
+      <td align="center">
+        <a href="32-traducao-sql-ia">App de tradução de SQL com IA</a>
+      </td>
+      <td align="center">
+        <a href="32-traducao-sql-ia">
+          <img src="32-traducao-sql-ia/.github/preview.png" width="400px" />
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
