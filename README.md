@@ -416,5 +416,18 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        31
+      </td>
+      <td align="center">
+        <a href="31-transcricao-video-ia">Transcrição de Vídeo com IA</a>
+      </td>
+      <td align="center">
+        <a href="31-transcricao-video-ia">
+          <img src="31-transcricao-video-ia/.github/preview.png" width="400px" />
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
