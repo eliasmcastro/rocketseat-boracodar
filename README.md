@@ -442,5 +442,18 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        33
+      </td>
+      <td align="center">
+        <a href="33-gerador-ticket">Gerador de Ticket</a>
+      </td>
+      <td align="center">
+        <a href="33-gerador-ticket">
+          <img src="33-gerador-ticket/.github/preview.png" width="400px" />
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
