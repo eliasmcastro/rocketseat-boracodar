@@ -455,5 +455,18 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        34
+      </td>
+      <td align="center">
+        <a href="34-lista-compras">Lista de Compras</a>
+      </td>
+      <td align="center">
+        <a href="34-lista-compras">
+          <img src="34-lista-compras/.github/preview.png" width="400px" />
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
