@@ -468,5 +468,18 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        35
+      </td>
+      <td align="center">
+        <a href="35-reminder-beber-agua">Reminder Beber Água</a>
+      </td>
+      <td align="center">
+        <a href="35-reminder-beber-agua">
+          <img src="35-reminder-beber-agua/.github/preview.png" width="400px" />
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
