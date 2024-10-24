@@ -507,5 +507,18 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        38
+      </td>
+      <td align="center">
+        <a href="38-quiz-card-imagem">Quiz de Card com Imagem</a>
+      </td>
+      <td align="center">
+        <a href="38-quiz-card-imagem">
+          <img src="38-quiz-card-imagem/.github/preview.png" width="400px" />
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
