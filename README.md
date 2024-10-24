@@ -494,5 +494,18 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        37
+      </td>
+      <td align="center">
+        <a href="37-app-sono-smartwatch">App de Sono para Smartwatch</a>
+      </td>
+      <td align="center">
+        <a href="37-app-sono-smartwatch">
+          <img src="37-app-sono-smartwatch/.github/preview.png" width="400px" />
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
