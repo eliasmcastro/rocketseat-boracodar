@@ -481,5 +481,18 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        36
+      </td>
+      <td align="center">
+        <a href="36-tabela-nutricional">Tabela Nutricional</a>
+      </td>
+      <td align="center">
+        <a href="36-tabela-nutricional">
+          <img src="36-tabela-nutricional/.github/preview.png" width="400px" />
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
