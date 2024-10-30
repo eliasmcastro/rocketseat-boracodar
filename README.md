@@ -520,5 +520,18 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        39
+      </td>
+      <td align="center">
+        <a href="39-avaliacao-produto">Avaliação de Produto</a>
+      </td>
+      <td align="center">
+        <a href="39-avaliacao-produto">
+          <img src="39-avaliacao-produto/.github/preview.png" width="400px" />
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
