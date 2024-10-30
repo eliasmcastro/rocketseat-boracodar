@@ -533,5 +533,18 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        40
+      </td>
+      <td align="center">
+        <a href="40-newsletter">Newsletter</a>
+      </td>
+      <td align="center">
+        <a href="40-newsletter">
+          <img src="40-newsletter/.github/preview.png" width="400px" />
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
